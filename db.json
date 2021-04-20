@@ -33,7 +33,6 @@
         }
       ]
     },
-    [
       {
         "id": 1,
         "description": "description",
@@ -67,6 +66,5 @@
           }
         ]
       }
-    ]
   ]
 }
