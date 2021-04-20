@@ -1,0 +1,72 @@
+{
+  "this is a test file": [
+    {
+      "id": 0,
+      "description": "description",
+      "external_url": "url here",
+      "image": "image",
+      "name": "name",
+      "attributes": [
+        {
+          "trait_type": "test",
+          "value": "test"
+        },
+        {
+          "trait_type": "test",
+          "value": "Red Tongue"
+        },
+        {
+          "trait_type": "test",
+          "value": "empty"
+        },
+        {
+          "trait_type": "test",
+          "value": "Crown"
+        },
+        {
+          "trait_type": "test",
+          "value": "Stoner"
+        },
+        {
+          "trait_type": "test",
+          "value": "Down"
+        }
+      ]
+    },
+    [
+      {
+        "id": 1,
+        "description": "description",
+        "external_url": "url here",
+        "image": "image",
+        "name": "name",
+        "attributes": [
+          {
+            "trait_type": "test",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "test",
+            "value": "Curious"
+          },
+          {
+            "trait_type": "test",
+            "value": "Garbage"
+          },
+          {
+            "trait_type": "test",
+            "value": "Alf"
+          },
+          {
+            "trait_type": "test",
+            "value": "Five"
+          },
+          {
+            "trait_type": "test",
+            "value": "Orange"
+          }
+        ]
+      }
+    ]
+  ]
+}
